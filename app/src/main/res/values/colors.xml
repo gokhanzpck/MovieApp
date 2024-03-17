@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mavi">#57859A</color>
+    <color name="acık">#EDDBD3</color>
+    <color name="kapalı">#EBBC85</color>
+    <color name="yeşil">#146152</color>
+    <color name="gri">#5C7373</color>
+    <color name="a">#170126</color>
+    <color name="a1">#73403C</color>
+    <color name="a2">#8C3041</color>
+    <color name="mürdüm">#45214A</color>
+</resources>
